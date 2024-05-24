@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Alarm_application"
+rootProject.name = "Alarm_Application_Excercise"
 include(":app")
  
